@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   # -------------------------------------------------------------
   # EDGE TIER: Highly constrained compute (e.g. IoT Gateway)
